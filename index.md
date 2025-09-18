@@ -56,3 +56,10 @@ layout: default
 *   **手动设置（以防万一）：**
     *   **MTN Rwanda APN：** `internet.mtn` (用户名和密码通常留空)。
     *   **Airtel Rwanda APN：** `internet.airtel` (用户名和密码
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Rwanda eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/rwanda-data-plans)
